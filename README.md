@@ -1,4 +1,5 @@
 دستورات نصب اسکریپت 👇
+
 pkg install bash
 
 git clone https://github.com/Goatnow/Tack-Error
